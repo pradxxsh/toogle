@@ -3,8 +3,8 @@ import eye from './assets/eye1.png';
 import './App.css'
 
 function App() {
-  const name = "AJAY K";
-  const regno = 212221040008;
+  const name = "Pradeesh kumar S";
+  const regno = 212221040124;
   const [isVisibile, setVisibile] = useState(false)
   const update = () => {
     if(isVisibile)
